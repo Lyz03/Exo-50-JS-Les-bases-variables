@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="38d37efc-d528-44f1-8dad-c6ad0eaaf9ab" name="Default Changelist" comment="part 2">
-      <change afterPath="$PROJECT_DIR$/exo 3/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exo 3/index.html" afterDir="false" />
+    <list default="true" id="38d37efc-d528-44f1-8dad-c6ad0eaaf9ab" name="Default Changelist" comment="part 3">
+      <change afterPath="$PROJECT_DIR$/exo 4/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exo 4/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exo 3/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/exo 3/app.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +52,7 @@
       <option name="presentableId" value="Default" />
       <updated>1605785252556</updated>
       <workItem from="1605785254971" duration="300000" />
-      <workItem from="1636537895551" duration="759000" />
+      <workItem from="1636537895551" duration="1151000" />
     </task>
     <task id="LOCAL-00001" summary="part 1">
       <created>1636538064317</created>
@@ -67,7 +68,14 @@
       <option name="project" value="LOCAL" />
       <updated>1636538562426</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="part 3">
+      <created>1636538817658</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1636538817658</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -88,6 +96,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="part 1" />
     <MESSAGE value="part 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="part 2" />
+    <MESSAGE value="part 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="part 3" />
   </component>
 </project>

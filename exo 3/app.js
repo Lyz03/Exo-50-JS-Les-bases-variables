@@ -1,3 +1,3 @@
-let name = prompt("Entrer votre Nom");
+let name = prompt("Entrez votre Nom");
 
 alert( "Bonjour " +name);
